@@ -11,3 +11,5 @@ It includes
 The LLM model used for chatting is gryphe/mythomax-l2-13b 
 while the adult photo generation is Stable Diffusion with Dezgo API.
 
+## Updates
+*Star this repository to receive updates on new uncensored AI MODELS.*
