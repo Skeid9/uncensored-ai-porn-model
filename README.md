@@ -8,8 +8,8 @@ It includes
 - NSFW pictures generation
 
 ## AI Models
-The LLM model used for chatting is gryphe/mythomax-l2-13b 
-while the adult photo generation is Stable Diffusion with Dezgo API.
+The LLM model used for chatting is **Contact me**
+while the adult photo generation is Stable Diffusion with **Contact me**.
 
 ## Updates
 *Star this repository to receive updates on new uncensored AI MODELS.*
