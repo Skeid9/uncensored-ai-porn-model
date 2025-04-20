@@ -1,7 +1,7 @@
 # Uncensored AI Porn Models
 
 Recently, I've built a web app to engage in intimate and NSFW conversations with AI and I wanna share with you the models I used for that.
-**The web app is [Erotic AI/](https://eroticai.chat/)**
+**The web app is [Erotic AI](https://eroticai.chat/)**
 
 It includes
 - Dirty AI text & voice messages
